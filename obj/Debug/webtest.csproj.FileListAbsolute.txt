@@ -1,0 +1,9 @@
+E:\laji\webtest\webtest\bin\Debug\webtest.exe.config
+E:\laji\webtest\webtest\bin\Debug\webtest.exe
+E:\laji\webtest\webtest\bin\Debug\webtest.pdb
+E:\laji\webtest\webtest\obj\Debug\webtest.csproj.AssemblyReference.cache
+E:\laji\webtest\webtest\obj\Debug\webtest.Properties.Resources.resources
+E:\laji\webtest\webtest\obj\Debug\webtest.csproj.GenerateResource.cache
+E:\laji\webtest\webtest\obj\Debug\webtest.csproj.CoreCompileInputs.cache
+E:\laji\webtest\webtest\obj\Debug\webtest.exe
+E:\laji\webtest\webtest\obj\Debug\webtest.pdb
